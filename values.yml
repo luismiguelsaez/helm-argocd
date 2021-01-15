@@ -1,0 +1,8 @@
+---
+
+installCRDs: false
+
+configs:
+  secret:
+    argocdServerAdminPassword: "$2y$12$7cT..VbymIR03JdW9VkQre2Uau96PTJvUevEO.gH9wk0aiVVf0QPm"
+    argocdServerAdminPasswordMtime: "2021-01-01T00:00:00Z"
